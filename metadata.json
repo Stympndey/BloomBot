@@ -1,0 +1,7 @@
+{
+  "name": "BloomBot AI Gardening Assistant",
+  "description": "A premium AI-powered gardening companion that identifies plants from photos, provides expert care guides, and answers your botanical questions. Created by @notsatyamm.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
